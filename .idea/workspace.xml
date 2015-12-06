@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a7f79ba-243b-49d1-af4c-4527eb3fb10b" name="Default" comment="update">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apple TV Photo Cache/Apple TV Photo Database" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Sparkle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/Autoupdate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Sparkle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/Current" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libdiagnostics.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libfoundationprogressservice.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libiokitsleeppreventer.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libjdns_sd.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libjnidispatch.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libkeychain.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/liblaunchservicesapplicationfinder.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/liblaunchservicesfiledescriptor.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/liblaunchservicesquarantineservice.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/liblaunchservicesschemehandler.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/liblocal.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libproxy.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/libquickLook.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/librococoa.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/MacOS/Cyberduck Spotlight Importer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Cyberduck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/charsets.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/cmm/CIEXYZ.pf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/cmm/GRAY.pf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/cmm/LINEAR_RGB.pf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/cmm/PYCC.pf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/cmm/sRGB.pf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/currency.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/cldrdata.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/dnsns.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/localedata.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/nashorn.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/sunec.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/sunjce_provider.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/sunpkcs11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/zipfs.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/fontconfig.bfc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/invalid32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_CopyDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_CopyNoDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_LinkDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_LinkNoDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_MoveDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/motif_MoveNoDrop32x32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/jce.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/jli/libjli.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/jsse.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libAppleScriptEngine.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libattach.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libawt.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libawt_lwawt.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libdt_socket.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libfontmanager.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libhprof.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libinstrument.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libj2gss.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libj2pcsc.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libj2pkcs11.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjaas_unix.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjava.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjava_crw_demo.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjawt.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjdwp.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjpeg.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjsdt.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjsig.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libjsound.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/liblcms.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libmanagement.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libmlib_image.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libnet.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libnio.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libnpt.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libosx.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libosxapp.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libosxkrb5.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libosxui.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libsaproc.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libsplashscreen.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libsunec.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libunpack.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libverify.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/libzip.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/management-agent.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/resources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/rt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/US_export_policy.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/cacerts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/local_policy.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/server/libjsig.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/server/libjvm.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/tzdb.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/_CodeSignature/CodeDirectory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/_CodeSignature/CodeRequirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/_CodeSignature/CodeSignature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Activity.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Error.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Folder.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Progress.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Task.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Transcript.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Transfer.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/add.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/addPressed.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/advanced.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/alert.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/aliasbadge.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/asm-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/aws-java-sdk-1.6.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/azure-storage-4.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/azure.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/bandwidth.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/barchart-udt-bundle-2.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/bcpkix-jdk15on-1.51.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/bcprov-jdk15on-1.51.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/binding-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/book.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/bookmark.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/bookmarks.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/browser.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cancel.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cglib-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/clean.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cleanall.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cli-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cocoa-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/column.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-cli-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-codec-1.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-collections-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-lang3-3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-logging-1.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-net-3.3-ftp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/commons-pool2-2.4.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/config-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/connect.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/connection-secure.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/connection.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/core-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cyberduck-application.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/cyberduck-document.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/dd-plist.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/delete.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/dns_sd.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download0.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download1.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download2.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download3.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download4.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download5.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download6.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download7.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download8.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/download9.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/dropfolderbadge.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/edit.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/editPressed.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/eject.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Bookmark.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Browser.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Command.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Connection.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Donate.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Info.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Login.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Main.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Preferences.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Prompt.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/executable.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/fs-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/ftp.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/gear.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/general.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/googlestorage.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/history.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/httpclient-4.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/httpcore-4.4.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/httpmime-4.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/info.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jackson-core-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jackson-mapper-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jansi-1.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jargon-core-4.0.2.3-RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/java-xmlbuilder-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jets3t-0.9.5-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jna-4.2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jsch.agentproxy.core-0.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jsch.agentproxy.pageant-0.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jsch.agentproxy.sshagent-0.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jsch.agentproxy.sshj-0.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jsch.agentproxy.usocket-jna-0.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jul-to-slf4j-1.7.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/jzlib-1.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/language.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/list.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/locked.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/log.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/log4j-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/mail-1.4.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/nav-backward.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/nav-forward.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/nav-up.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/newfolder.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/notfound.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/open.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/outline.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/pencil.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/permissions.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/plus.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/privatefolderbadge.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/queue.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/readonlyfolderbadge.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/reload.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/remove.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/removePressed.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/rendezvous.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/resume.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/reveal.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/rococoa-core-0.7-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/s3.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/sardine-5.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/signpost-commonshttp4-1.2.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/signpost-core-1.2.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/site.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/slf4j-api-1.7.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/slf4j-log4j12-1.7.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/sshj-0.13.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/statusBlue.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/statusGreen.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/statusRed.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/statusYellow.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/stop.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/sunmscapi.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/swift-2.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/swift.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/sync.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transfer-copy.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transfer-download.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transfer-move.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transfer-sync.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transfer-upload.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/transparent.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/trash.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/turtle.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/ui-4.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/unlocked.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/update.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/upload.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ITCKRIST.TTF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AppleTV.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/iPad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/iPhone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/iPod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simulator Screen Shot Nov 7, 2015, 10.10.04 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simulator Screen Shot Nov 7, 2015, 8.53.06 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/cursor-grab-closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/cursor-grab-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/control.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data.tar.lzma" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/zh-Hant.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/apple_chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/iphonereg/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/iphonereg/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleRootChain.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/activation_records/activation_record.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/data_ark 2.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/data_ark.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/data_ark.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/escrow_records/30378233-114487862059313268.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/escrow_records/30378233-116400359676156548.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/escrow_records/303788361905972821202911604.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/escrow_records/9D3E8DF0-5C1D-40CB-A29E-3E4E34CB64AE.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/pair_records/30378233-114487862059313268.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/pair_records/30378233-116400359676156548.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/pair_records/303788361905972821202911604.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/pair_records/9D3E8DF0-5C1D-40CB-A29E-3E4E34CB64AE.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/pair_records/placeholder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/boxline_ffffff_botl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/boxline_ffffff_botr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/boxline_ffffff_topl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/boxline_ffffff_topr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/doulCi/doulCi_AppleTV.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/doulCi/doulCi_iPad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/doulCi/doulCi_iPhone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/doulCi/doulCi_iPod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/AppleComputerRootCertificate.cer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/AppleIncRootCertificate.cer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/data_ark.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/data_ark_new.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/escrow_records/30393696-121843956290552012.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/escrow_records/303936981710811892116482012.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/escrow_records/30394454-4058374307519916.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/escrow_records/88ADB568-479F-453A-95FD-D4E2D4CF8244.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/pair_records/303936981710811892116482012.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/pair_records/30394454-4058374307519916.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/pair_records/88ADB568-479F-453A-95FD-D4E2D4CF8244.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhone.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/data.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/dataPublic.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/ITCKRIST.TTF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bol-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bol-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bol-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bol-webfont_2d2816fe.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-lig-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-lig-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-lig-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-lig-webfont_2d2816fe.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-reg-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-reg-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-reg-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-reg-webfont_2d2816fe.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/BBTicket_Request_Bundle.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/SHSHTicket_Request_Bundle.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgcontact2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/current.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/exemple1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/exemple2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/exemple3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/exemple4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/exemple8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icloud-bypass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logotop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logotop.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/native_ios_app_template/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/native_ios_app_template/images/startup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.autocode/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/CSV/csv_reader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/CSV/csv_writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/CSV/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/iCloud/iCloud.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/iCloud/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/parsers/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/parsers/plist/PlistParser.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/parsers/plist/PlistParser_.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/parsers/plist/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/Enum.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/EnumIterator.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/example2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/example3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/enum/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/types/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/en.lproj/Sparkle.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUModelTranslation.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/Sparkle.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Frameworks/Sparkle.framework/Versions/A/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/Resources/English.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/Resources/English.lproj/schema.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/Resources/schema.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Library/Spotlight/Cyberduck Spotlight Importer.mdimporter/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/ASSEMBLY_EXCEPTION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/THIRD_PARTY_README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/calendars.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/classlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/content-types.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/ext/meta-index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/flavormap.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/fontconfig.properties.src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/hijrah-config-umalqura.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/images/cursors/cursors.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/jvm.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/jvm.hprof.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/logging.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/management/jmxremote.access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/management/jmxremote.password.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/management/management.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/management/snmp.acl.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/meta-index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/net.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/psfont.properties.ja" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/psfontj2d.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/blacklisted.certs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/java.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/security/java.security" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/server/Xusage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/lib/sound.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Home/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/MacOS/Runtime.jre/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Acknowledgments.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Credits.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/HP Cloud Object Storage.cyberduckprofile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Profiles/Rackspace US.cyberduckprofile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/Rackspace UK.cyberduckprofile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/container-migration.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Alert.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Archive.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Azure.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Configuration.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Crash.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Credentials.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Download.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Duplicate.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Error.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/File.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Folder.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Goto.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Keychain.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/License.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Mosso.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/S3.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/ServicesMenu.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Sftp.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Status.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Support.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/en.lproj/Transfer.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/Resources/update.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cyberduck.app/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DEVOLOPER_API.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Get_Access.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/AES.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Blowfish.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/DES.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Hash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/RC2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/RC4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/RSA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Random.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Rijndael.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/TripleDES.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Crypt/Twofish.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/File/ANSI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/File/ASN1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/File/X509.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Math/BigInteger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Net/SCP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Net/SFTP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Net/SFTP/Stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Net/SSH1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/Net/SSH2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/System/SSH/Agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/System/SSH_Agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP_Sec_Lib/openssl.cnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSS/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSS/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSS_B.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSS_Blobs/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Css/Core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/JavaScript/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Merruks_Error_Content.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Merruks_Error_Footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Merruks_Error_Header.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Merruks_Error_Meta.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/SETTINGS.PHP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Setting_iTunes_Footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Setting_iTunes_Meta.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/Setting_iTunes_Plist.Plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/iDevices/Ubrick_iDevice.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/iDevices/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebObjects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cancel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/close_me_from_there_lol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/gumby.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/liquid-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/control" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/en.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/en.lproj/Sections_.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/zh-Hans.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/zh-Hans.lproj/Sections.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/data/Applications/Cydia.app/zh-Hant.lproj/Sections.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cydia-lproj_1.1.12_iphoneos-arm/debian-binary" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/RequestTemplate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/images/iphonereg/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/static/fontstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/albert/static/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certifyMe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleFairPlayCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleFairPlayCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleIphoneCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleIphoneCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleRootCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleRootCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleRootChain-1.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/AppleRootChain.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/DeviceCertRequest_Public.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleFairPlayCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleFairPlayCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneActivation.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneDeviceCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleIphoneDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleRootCA.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/certs/AppleRootCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/device_private_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/Lockdown orig 5s/device_public_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/iPhoneActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/iPhoneCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/devi/iPhoneDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneActivation.pem.fromdevice" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneActivation_private.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneActivation_private.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneDeviceCA.pem.fromdevice" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneDeviceCA_private.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/iPhoneDeviceCA_private.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/certs/private_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/checkUnbrickHealth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/deviceActivation-modded.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/deviceActivation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/deviceActivation_Sample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/doulCiAuthorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/doulCiMaintenance.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/boxline/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/doulCi/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/images/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/showSettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/stylesheets/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deviceservices/stylesheets/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.Helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.Proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.iDeviceCheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/AppleIncRootCertificateAuthority.cer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/DeviceCertRequest_Public.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/device_private_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown (1)/device_public_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/Checkpoint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/FactoryActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/FactoryDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/SBOOT_S5L8702.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/SBOOT_S5L8702_DEV.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/SBOOT_S5L8900.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/SBOOT_S5L8900_DEV.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/SQLMusicLibraryPostProcessCommands.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/Services.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhoneActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhoneCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhoneDebug.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhoneDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/Lockdown/iPhoneSoftwareUpdate.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneActivation.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneActivationOrig.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneActivation_private.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneActivation_public.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneDeviceCA.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneDeviceCAOrig.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/iPhoneDeviceCA_private.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/Certificates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCi.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCi.Functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCi.PKI - copie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCi.PKI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCiCaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/doulCi_DB.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulCi_Authorized_IPs/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doulcistatus.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bol-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-lig-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-reg-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/ApTicket_Request_Bundle.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,1/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,2/Manfest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,2/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,3/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone3,3/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone4,1/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone4,1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,1/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,2/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,2/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,3/Manfest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,3/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,4/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone5,4/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone6,1/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone6,1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone6,2/Manifest.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/iPhone6,2/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iOS_Custum_Bundles/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_activation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/cbpBGSlideshow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.imagesloaded.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.liquid-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.parallax-1.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mediaCheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/native_ios_app_template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/native_ios_app_template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/success.php" />
+    </list>
+    <ignored path="Doulci.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Doulci" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="princeofdarkness76" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Doulci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Doulci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Doulci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.Activation_Blobs">
+    <configuration default="false" name="Activation_Blobs" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/Activation_Blobs" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.Activation_Blobs" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.Activation_Blobs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a7f79ba-243b-49d1-af4c-4527eb3fb10b" name="Default" comment="" />
+      <created>1449311261629</created>
+      <option name="number" value="Default" />
+      <updated>1449311261629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="833" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39921466" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
